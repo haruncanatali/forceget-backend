@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORCEGET.Domain", "FORCEGET.Domain\FORCEGET.Domain.csproj", "{D26EB406-B5C9-4602-B1A6-7085717D8E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORCEGET.Application", "FORCEGET.Application\FORCEGET.Application.csproj", "{1569E7CE-7C07-440E-B0C2-5AAC2F920526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORCEGET.Persistence", "FORCEGET.Persistence\FORCEGET.Persistence.csproj", "{EE66F538-9A9E-4717-8CAE-CF3DDD835DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORCEGET.Api", "FORCEGET.Api\FORCEGET.Api.csproj", "{131D111B-4A2E-434A-85E8-F471EE2921D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26EB406-B5C9-4602-B1A6-7085717D8E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26EB406-B5C9-4602-B1A6-7085717D8E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26EB406-B5C9-4602-B1A6-7085717D8E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26EB406-B5C9-4602-B1A6-7085717D8E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1569E7CE-7C07-440E-B0C2-5AAC2F920526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1569E7CE-7C07-440E-B0C2-5AAC2F920526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1569E7CE-7C07-440E-B0C2-5AAC2F920526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1569E7CE-7C07-440E-B0C2-5AAC2F920526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE66F538-9A9E-4717-8CAE-CF3DDD835DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE66F538-9A9E-4717-8CAE-CF3DDD835DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE66F538-9A9E-4717-8CAE-CF3DDD835DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE66F538-9A9E-4717-8CAE-CF3DDD835DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131D111B-4A2E-434A-85E8-F471EE2921D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131D111B-4A2E-434A-85E8-F471EE2921D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131D111B-4A2E-434A-85E8-F471EE2921D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131D111B-4A2E-434A-85E8-F471EE2921D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
